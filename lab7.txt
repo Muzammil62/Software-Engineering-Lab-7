@@ -1,0 +1,15 @@
+Software Engineering Lab 7
+
+Objective:
+To learn Git and GitHub version control commands.
+
+Commands practised:
+
+1. git clone
+2. git status
+3. git add
+4. git commit
+5. git push
+6. git pull
+7. git branch
+8. git merge
